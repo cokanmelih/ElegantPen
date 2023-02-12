@@ -1,0 +1,3 @@
+/Users/melihcokan/Documents/Develop/ElegantPen/build/CMakeFiles/ElegantPen.dir
+/Users/melihcokan/Documents/Develop/ElegantPen/build/CMakeFiles/edit_cache.dir
+/Users/melihcokan/Documents/Develop/ElegantPen/build/CMakeFiles/rebuild_cache.dir
